@@ -1,0 +1,29 @@
+Panthera tigris: Panthera leo, Panthera onca, Panthera pardus, Neofelis nebulosa, Acinonyx jubatus  
+Panthera leo: Panthera tigris, Panthera onca, Panthera pardus, Neofelis nebulosa, Acinonyx jubatus
+Panthera onca: Panthera tigris, Panthera leo, Panthera pardus, Neofelis nebulosa, Acinonyx jubatus
+Panthera pardus: Panthera tigris, Panthera leo, Panthera onca, Neofelis nebulosa, Acinonyx jubatus
+Neofelis nebulosa: Panthera tigris, Panthera leo, Panthera onca, Panthera pardus, Acinonyx jubatus
+
+Canis lupus: Canis latrans, Canis aureus, Canis familiaris, Vulpes vulpes, Lycaon pictus
+Canis latrans: Canis lupus, Canis aureus, Canis familiaris, Vulpes vulpes, Lycaon pictus
+Canis aureus: Canis lupus, Canis latrans, Canis familiaris, Vulpes vulpes, Lycaon pictus
+Canis familiaris: Canis lupus, Canis latrans, Canis aureus, Vulpes vulpes, Lycaon pictus
+Vulpes vulpes: Canis lupus, Canis latrans, Canis aureus, Canis familiaris, Lycaon pictus
+
+Ursus arctos: Ursus maritimus, Ursus americanus, Ursus thibetanus, Helarctos malayanus, Melursus ursinus
+Ursus maritimus: Ursus arctos, Ursus americanus, Ursus thibetanus, Helarctos malayanus, Melursus ursinus
+Ursus americanus: Ursus arctos, Ursus maritimus, Ursus thibetanus, Helarctos malayanus, Melursus ursinus
+Ursus thibetanus: Ursus arctos, Ursus maritimus, Ursus americanus, Helarctos malayanus, Melursus ursinus
+Helarctos malayanus: Ursus arctos, Ursus maritimus, Ursus americanus, Ursus thibetanus, Melursus ursinus
+
+Elephas maximus: Loxodonta africana, Mammuthus primigenius, Stegodon trigonocephalus, Palaeoloxodon namadicus, Mammut americanum
+Loxodonta africana: Elephas maximus, Mammuthus primigenius, Stegodon trigonocephalus, Palaeoloxodon namadicus, Mammut americanum
+Mammuthus primigenius: Elephas maximus, Loxodonta africana, Stegodon trigonocephalus, Palaeoloxodon namadicus, Mammut americanum
+Stegodon trigonocephalus: Elephas maximus, Loxodonta africana, Mammuthus primigenius, Palaeoloxodon namadicus, Mammut americanum
+Palaeoloxodon namadicus: Elephas maximus, Loxodonta africana, Mammuthus primigenius, Stegodon trigonocephalus, Mammut americanum
+
+Gorilla beringei: Gorilla gorilla, Pan troglodytes, Pongo abelii, Hylobates lar, Symphalangus syndactylus
+Gorilla gorilla: Gorilla beringei, Pan troglodytes, Pongo abelii, Hylobates lar, Symphalangus syndactylus
+Pan troglodytes: Gorilla beringei, Gorilla gorilla, Pongo abelii, Hylobates lar, Symphalangus syndactylus
+Pongo abelii: Gorilla beringei, Gorilla gorilla, Pan troglodytes, Hylobates lar, Symphalangus syndactylus
+Hylobates lar: Gorilla beringei, Gorilla gorilla, Pan troglodytes, Pongo abelii, Symphalangus syndactylus

@@ -1,0 +1,5 @@
+Loxodonta cyclotis, Mammuthus primigenius, Panthera leo, Pongo pygmaeus, Neofelis nebulosa, Canis lupus familiaris, Pongo abelii, Pan troglodytes, Panthera tigris, Ursus arctos, Stegodon trigonocephalus, Gorilla diehli, Panthera uncia, Canis simensis, Gorilla beringei, Ursus spelaeus
+Elephas maximus, Canis latrans, Ursus thibetanus, Ursus maritimus, Canis lupus, Panthera pardus, Elephas maximus, Canis dingo
+Ursus arctos, Ursus americanus, Canis aureus, Neofelis nebulosa
+Canis lupus, Ursus arctos horribilis, Loxodonta africana, Panthera onca, Palaeoloxodon namadicus
+Gorilla beringei, Gorilla gorilla
